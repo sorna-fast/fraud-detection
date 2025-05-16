@@ -57,7 +57,7 @@ fraud-detection/
 │   └── data/             # Data processing & splitting
 ├── model/                # Trained model
 │   └── gb_classifier.pkl
-├── notebooks/            # Data analysis notebooks
+├── notebooks/            # Data analytics and model training
 │   ├── Fraud_Detection_EDA_Model_Training_FA.ipynb (Persian comments)
 │   └── Fraud_Detection_EDA_Model_Training_EN.ipynb (English comments)
 ├── visualizations/       # Visualization outputs
@@ -181,7 +181,7 @@ fraud-detection/
 │   └── data/             # پردازش و تقسیم داده
 ├── model/                # مدل آموزش دیده
 │   └── gb_classifier.pkl
-├── notebooks/            # تحلیل‌های داده
+├── notebooks/            #  تحلیل‌های داده و آموزش مدل
 │   ├── Fraud_Detection_EDA_Model_Training_FA.ipynb (کامنت‌های فارسی)
 │   └── Fraud_Detection_EDA_Model_Training_EN.ipynb (کامنت‌های انگلیسی)
 ├── visualizations/       # خروجی نمودارها
