@@ -1,4 +1,4 @@
-```markdown
+
 # Project introduction in English
 
 # Financial Fraud Detection System - Technical Documentation
@@ -63,7 +63,7 @@ fraud-detection/
 ├── visualizations/       # Visualization outputs
 │   ├── confusion_matrix_test.png
 │   └── roc_curve.png
-        .....
+        ...
 ├── .gitignore
 ├── app.py                # Application entry point
 ├── README.md
@@ -100,7 +100,7 @@ streamlit run app.py
 |----------|---------|
 | `categorical_distribution.png` | Categorical feature distribution |
 | `numeric_features_boxplot.png` | Outlier analysis |
-    ...
+
 
 ---
 
@@ -121,7 +121,7 @@ This project is licensed under the [MIT](LICENSE) License.
     Telegram: https://t.me/Fast_programmer
 🔗 GitHub Profile: [sorna-fast](https://github.com/sorna-fast)
 
----
+
 
 # Project introduction in Persian
 
@@ -140,14 +140,14 @@ This project is licensed under the [MIT](LICENSE) License.
 - [لیست نیازمندی‌ها](#لیست-نیازمندیها)
 - [مجوز](#مجوز)
 
----
+
 
 ## معرفی پروژه
 این سیستم با استفاده از **الگوریتم Gradient Boosting** قادر به تشخیص تراکنش‌های مالی تقلبی با دقت بالا است. پروژه شامل مراحل کامل از تحلیل داده تا پیاده‌سازی رابط کاربری می‌باشد و از محیط کاربری استریملیت برای نمایش نتایج و پردازش داده‌های جدید استفاده می‌کند.
 
 ![نمونه خروجی](visualizations/roc_curve.png)
 
----
+
 
 ## ویژگی‌های کلیدی
 - 🕵️ تحلیل اکتشافی داده (EDA) با ۷+ نمودار حرفه‌ای
@@ -156,7 +156,7 @@ This project is licensed under the [MIT](LICENSE) License.
 - 🔄 قابلیت پردازش بلادراز داده‌های جدید
 - 📈 مستندات کامل و آماده انتشار
 
----
+
 
 ## نصب و راه‌اندازی
 
@@ -187,7 +187,7 @@ fraud-detection/
 ├── visualizations/       # خروجی نمودارها
 │   ├── confusion_matrix_test.png
 │   └── roc_curve.png
-        .....
+        ...
 ├── .gitignore
 ├── app.py                # نقطه ورود برنامه
 ├── README.md
@@ -224,7 +224,7 @@ streamlit run app.py
 |----------|---------|
 | `categorical_distribution.png` | توزیع ویژگی‌های دسته‌ای |
 | `numeric_features_boxplot.png` | تحلیل داده‌های پرت |
-    ...
+  
 
 ---
 
@@ -236,7 +236,7 @@ streamlit run app.py
 ## مجوز
 این پروژه تحت مجوز [MIT](LICENSE) منتشر شده است.
 
----
+
 
 👋 امیدواریم این پروژه برای شما مفید باشد! 🚀
 
@@ -244,7 +244,8 @@ streamlit run app.py
     ایمیل: masudpythongit@gmail.com 
     تلگرام: https://t.me/Fast_programmer
 🔗 حساب گیتهاب: [sorna-fast](https://github.com/sorna-fast)
-``` 
+
+---
 
 این فایل README.md:
 - کاملاً دو زبانه با ساختار یکپارچه
